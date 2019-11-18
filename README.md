@@ -11,20 +11,21 @@ While initially collected from the sources listed below, a lot of work has been 
 
 The new and updated datasets are made available here.
 
-* **European Motorways**. This dataset is the main component of the visualisation, and it's the one on which the biggest effort has been put into in order to render it clean, lightweight and consistent. The original vector files from OpenStreetMap have been simplified and consolidated, while the construction dates for each motorway's segment have been added to the dataset. This chronological infromation has been researched from a wide spectrum of online sources. Each motorways is presented as a single-line feature with the following attributes: </br></br>
+* **European Motorways**. This dataset is the main component of the visualisation, and it's the one on which the biggest effort has been put into in order to render it clean, lightweight and consistent. The original vector files from OpenStreetMap have been simplified and consolidated, while the construction dates for each motorway's segment have been added to the dataset. This chronological infromation has been researched from a wide spectrum of online sources.
+
+Each motorways is presented as a single-line feature with the following attributes: </br></br>
 `int_ref`: International reference number </br>
 `ref`: National reference number </br>
 `country`: ISO ALPHA-3 country code </br>
 `start_year`: year of start of construction (`0` when unknown) </br>
 `end_year`: year of end of construction </br>
-`length`: length in meters </br>
-</br>
+`length`: length in meters
+
 Here is an example of the attributes' table:</br>
 
 | int_ref        | ref           | country  | start_year  | end_year  | length  |
 |:------------- |:------------- |:----- |:----- |:----- |:----- |
 | E 451 | A 51 | DEU | 1933 | 1935 | 440392 |
-
 
 The complete dataset can be downloaded from [here](https://github.com/StudioFolder/european-motorways/blob/master/european-highways_all.geojson.zip). The CRS is EPSG:4326. 
 
