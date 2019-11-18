@@ -2,27 +2,42 @@
 
 ![alt text](https://github.com/StudioFolder/european-motorways/blob/master/VAM_European-Motorways_screen-01.png)
 
-This repository contains the data collected and produced for the visualisation published here: https://www.vam.ac.uk/commission/european-motorways-1920–2020.
+This repository contains the datasets created for the visualisation published here: https://www.vam.ac.uk/commission/european-motorways-1920–2020.
 
-"The Evolution of European Motorways 1920–2020" has been commissioned by the Victoria and Albert Museum in London, and has been developed as part of the exhibition "[Cars: Accelerating the Modern World](https://www.vam.ac.uk/exhibitions/cars)," curated by Brendan Cormier (23 November 2019—19 April 2020). It shows the history of the motorways network's growth across Europe over a period of 100 years, while providing additional information on the political, economical and cultural context within its development. 
+"The Evolution of European Motorways 1920–2020" has been commissioned by the Victoria and Albert Museum in London, and has been developed as part of the exhibition "[Cars: Accelerating the Modern World](https://www.vam.ac.uk/exhibitions/cars)," curated by Brendan Cormier (23 November 2019—19 April 2020). It shows the history and growth of motorways across Europe over a period of a hundred years, and it provides additional information on the political, economical and cultural context of their development. 
 
-While initially collected from the sources listed below, a loto of work has been put into the analysis, integration, and refinement of the transportation network data presented here.
+While initially collected from the sources listed below, a lot of work has been put into the analysis, integration, and refinement of the transportation network data used in the visualisation and shared here.
 ---
 
-The new and updated dataasets are therefore made available here,
+The new and updated datasets are made available here.
 
-* European Motorways
+* **European Motorways**. The original vector files from OpenStreetMap have been simplified and consolidated, while the construction dates for each motorway's segment have been added to the dataset. Each motorways is presented as a single-line feature with the following attributes: </br>
+`int_ref`: International reference number </br>
+`ref`: National reference number </br>
+`country`: ISO ALPHA-3 country code </br>
+`start_year`: year of start of construction (`0` when unknown) </br>
+`end_year`: year of end of construction </br>
+`length`: length in meters </br>
+</br>
+An example of the attributes' table can be found below:
 
-* Pan-European Transport Corridors
+| int_ref        | ref           | country  | start_year  | end_year  | length  |
+|:------------- |:------------- |:----- |:----- |:----- |:----- |
+| E 451 | A 51 | DEU | 1933 | 1935 | 440392 |
 
-* Trans-European Transport Network (TEN-T)
+
+The dataset can be downloaded from here. 
+
+* **Pan-European Transport Corridors**. The dataset can be downloaded from here.
+
+* **Trans-European Transport Network (TEN-T)**. The dataset can be downloaded from here.
 
 ![alt text](https://github.com/StudioFolder/european-motorways/blob/master/VAM_European-Motorways_screen-02.png)
 </br></br>
 
 ***
 ### Initial data sources
-The data used in the visualisation has been collected from a variety of sources, which are listed below. In particular, all roads and motorways data have been checked, reformatted and 
+The sources of the reference data for the transportation network and the basemap are listed below.
 
 **Elevation data**</br>
 [📦](https://www.usgs.gov/land-resources/eros/coastal-changes-and-impacts/gmted2010?qt-science_support_page_related_con=0#qt-science_support_page_related_con) Danielson, J.J., and Gesch, D.B., 2011, Global multi-resolution terrain elevation data 2010 (GMTED2010).
