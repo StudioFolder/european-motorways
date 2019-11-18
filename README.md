@@ -9,7 +9,13 @@ This repository contains the data collected and produced for the visualisation p
 While initially collected from the sources listed below, a loto of work has been put into the analysis, integration, and refinement of the transportation network data presented here.
 ---
 
-The new and updated dataasets are therefore made available here, 
+The new and updated dataasets are therefore made available here,
+
+* European Motorways
+
+* Pan-European Transport Corridors
+
+* Trans-European Transport Network (TEN-T)
 
 ![alt text](https://github.com/StudioFolder/european-motorways/blob/master/VAM_European-Motorways_screen-02.png)
 </br></br>
@@ -33,10 +39,10 @@ The data used in the visualisation has been collected from a variety of sources,
 **International E-roads Network**</br>
 [📦](https://sedac.ciesin.columbia.edu/data/set/groads-global-roads-open-access-v1) Center for International Earth Science Information Network (CIESIN) / Columbia University, and Information Technology Outreach Services (ITOS) / University of Georgia. 2013. _Global Roads Open Access Data Set_, Version 1 (gROADSv1). Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC).
 
-**Pan-European transport corridors**</br>
+**Pan-European Transport Corridors (initial reference)**</br>
 [📦](https://web.archive.org/web/20110223194354/http://www.unece.org/trans/main/ter/Countries/PanEuCorridors.html) United Nations Economic Commission for Europe (UNECE)
 
-**Trans-European Transport Network (TEN-T)**</br>
+**Trans-European Transport Network (TEN-T), initial reference**</br>
 [📦](https://ec.europa.eu/transport/infrastructure/tentec/tentec-portal/site/en/maps.html) European Commission, Directorate-General for Mobility and Transport (DG MOVE)</br>[📦](https://eurogeographics.org/products-and-services/open-data/topographic-data/) EuroGlobalMap 2019, © EuroGeographics.
 </br></br>
 
