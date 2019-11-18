@@ -33,6 +33,8 @@ The complete dataset can be downloaded from [here](https://github.com/StudioFold
 
 * **Trans-European Transport Network (TEN-T)**. The network's paths have been georeferenced and traced in QGIS. The complete dataset can be downloaded from [here](https://github.com/StudioFolder/european-motorways/blob/master/ten-t.zip). The CRS is EPSG:3857.
 
+You can re-use this data for your purposes, while respecting the terms of use and conditions set by their initial creators. We would also be grateful if you could link back to this page. If you find any error in the data — or would like to update or suggest eny edit to them — feel free to fork this repository or drop us a line at folder@studiofolder.it.    
+
 ![The Evolution of European Motorways, 2020](https://github.com/StudioFolder/european-motorways/blob/master/VAM_European-Motorways_screen-02.png)
 </br></br>
 
