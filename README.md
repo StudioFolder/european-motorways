@@ -40,10 +40,10 @@ The data used in the visualisation has been collected from a variety of sources,
 [📦](https://sedac.ciesin.columbia.edu/data/set/groads-global-roads-open-access-v1) Center for International Earth Science Information Network (CIESIN) / Columbia University, and Information Technology Outreach Services (ITOS) / University of Georgia. 2013. _Global Roads Open Access Data Set_, Version 1 (gROADSv1). Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC).
 
 **Pan-European Transport Corridors (initial reference)**</br>
-[📦](https://web.archive.org/web/20110223194354/http://www.unece.org/trans/main/ter/Countries/PanEuCorridors.html) United Nations Economic Commission for Europe (UNECE)
+[📦](https://web.archive.org/web/20110223194354/http://www.unece.org/trans/main/ter/Countries/PanEuCorridors.html) United Nations Economic Commission for Europe (UNECE).
 
 **Trans-European Transport Network (TEN-T), initial reference**</br>
-[📦](https://ec.europa.eu/transport/infrastructure/tentec/tentec-portal/site/en/maps.html) European Commission, Directorate-General for Mobility and Transport (DG MOVE)</br>[📦](https://eurogeographics.org/products-and-services/open-data/topographic-data/) EuroGlobalMap 2019, © EuroGeographics.
+[📦](https://ec.europa.eu/transport/infrastructure/tentec/tentec-portal/site/en/maps.html) European Commission, Directorate-General for Mobility and Transport (DG MOVE).</br>[📦](https://eurogeographics.org/products-and-services/open-data/topographic-data/) EuroGlobalMap 2019, © EuroGeographics.
 </br></br>
 
 ***
