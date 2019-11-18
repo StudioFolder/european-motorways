@@ -2,6 +2,7 @@
 This repository contains the motorways data produced for the visualisation published here: https://www.vam.ac.uk/commission/european-motorways-1920–2020.
 
 "The Evolution of European Motorways 1920–2020" is a visualisation that was produced as part of the exhibition "éCars: Accelerating the Modern World](https://www.vam.ac.uk/exhibitions/cars)," at the Victoria and Albert Musuem in London (23 November 2019—19 April 2020). The exhbition is curated by Brendan Cormier. 
+</br></br>
 
 
 ### Initial data sources
@@ -28,7 +29,7 @@ OpenStreetMap Contributors
 
 **Trans-European Transport Network (TEN-T)**</br>
 [📦](https://ec.europa.eu/transport/infrastructure/tentec/tentec-portal/site/en/maps.html) European Commission, Directorate-General for Mobility and Transport (DG MOVE)</br>[📦](https://eurogeographics.org/products-and-services/open-data/topographic-data/) EuroGlobalMap 2019, © EuroGeographics.
-
+</br></br>
 
 ### Credits
 The visualisation has been designed and developed by [Studio Folder](http://www.studiofolder.it/) (Marco Ferrari, Elisa Pasqual, Letizia Bernardelli, Simone S. Melis, Mattia Salvà) and [Angelo Semeraro](http://angelosemeraro.info/). The historical research for the chronological sequence of the motorways construction has been completed by Brendan Cormier and Esme Hawes (Victoria and Albert Museum).
