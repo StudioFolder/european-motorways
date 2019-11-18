@@ -1,6 +1,6 @@
 # The Evolution of European Motorways, 1920—2020
 
-![alt text](https://github.com/StudioFolder/european-motorways/blob/master/VAM_European-Motorways_screen-01.png)
+![The Evolution of European Motorways, 1924](https://github.com/StudioFolder/european-motorways/blob/master/VAM_European-Motorways_screen-01.png)
 
 This repository contains the datasets created for the visualisation published here: https://www.vam.ac.uk/commission/european-motorways-1920–2020.
 
@@ -11,7 +11,7 @@ While initially collected from the sources listed below, a lot of work has been 
 
 The new and updated datasets are made available here.
 
-* **European Motorways**. The original vector files from OpenStreetMap have been simplified and consolidated, while the construction dates for each motorway's segment have been added to the dataset. Each motorways is presented as a single-line feature with the following attributes: </br>
+* **European Motorways**. The original vector files from OpenStreetMap have been simplified and consolidated, while the construction dates for each motorway's segment have been added to the dataset. Each motorways is presented as a single-line feature with the following attributes: </br></br>
 `int_ref`: International reference number </br>
 `ref`: National reference number </br>
 `country`: ISO ALPHA-3 country code </br>
@@ -19,20 +19,20 @@ The new and updated datasets are made available here.
 `end_year`: year of end of construction </br>
 `length`: length in meters </br>
 </br>
-An example of the attributes' table can be found below:
+Here is an example of the attributes' table:</br>
 
 | int_ref        | ref           | country  | start_year  | end_year  | length  |
 |:------------- |:------------- |:----- |:----- |:----- |:----- |
 | E 451 | A 51 | DEU | 1933 | 1935 | 440392 |
 
 
-The dataset can be downloaded from here. 
+The dataset can be downloaded from here. The CRS is EPSG:4326. 
 
-* **Pan-European Transport Corridors**. The dataset can be downloaded from here.
+* **Pan-European Transport Corridors**. The corridors' paths have been georeferenced and traced in QGIS, and organised The dataset can be downloaded from here. The CRS is EPSG:3857.
 
-* **Trans-European Transport Network (TEN-T)**. The dataset can be downloaded from here.
+* **Trans-European Transport Network (TEN-T)**. The dataset can be downloaded from here. The CRS is EPSG:3857.
 
-![alt text](https://github.com/StudioFolder/european-motorways/blob/master/VAM_European-Motorways_screen-02.png)
+![The Evolution of European Motorways, 2020](https://github.com/StudioFolder/european-motorways/blob/master/VAM_European-Motorways_screen-02.png)
 </br></br>
 
 ***
