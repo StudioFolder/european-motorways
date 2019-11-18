@@ -13,7 +13,7 @@ The new and updated datasets are made available here.
 
 * **European Motorways**. This dataset is the main component of the visualisation, and it's the one on which the biggest effort has been put into in order to render it clean, lightweight and consistent. The original vector files from OpenStreetMap have been simplified and consolidated, while the construction dates for each motorway's segment have been added to the dataset. This chronological infromation has been researched from a wide spectrum of online sources.
 
-Each motorways is presented as a single-line feature with the following attributes: </br></br>
+Each motorway is presented as a single-line feature with the following attributes: </br></br>
 `int_ref`: International reference number </br>
 `ref`: National reference number </br>
 `country`: ISO ALPHA-3 country code </br>
