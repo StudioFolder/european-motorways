@@ -27,7 +27,7 @@ The data used in the visualisation has been collected from a variety of sources,
 **Waterbodies, Cities**</br>
 [📦](https://www.naturalearthdata.com/downloads/) Natural Earth 
 
-**Reference motorways data**</br>
+**Motorways data (initial reference)**</br>
 [📦](https://www.geofabrik.de/data/download.html)OpenStreetMap Contributors
 
 **International E-roads Network**</br>
