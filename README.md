@@ -19,7 +19,7 @@ Each motorway is presented as a single-line feature with the following attribute
 `country`: ISO ALPHA-3 country code </br>
 `start_year`: year of start of construction (`0` when unknown) </br>
 `end_year`: year of end of construction </br>
-`length`: length in meters
+`length`: length in arc degrees
 
 Here is an example of the attributes' table:</br>
 
@@ -40,7 +40,7 @@ You can re-use this data for your purposes, while respecting the terms of use an
 
 ***
 ### Initial data sources
-The sources of the reference data for the transportation network and the basemap are listed below.
+The sources of the reference data for the transportation network and the basemap used in the visualisation are listed below.
 
 **Elevation data**</br>
 [📦](https://www.usgs.gov/land-resources/eros/coastal-changes-and-impacts/gmted2010?qt-science_support_page_related_con=0#qt-science_support_page_related_con) Danielson, J.J., and Gesch, D.B., 2011, Global multi-resolution terrain elevation data 2010 (GMTED2010).
@@ -51,8 +51,8 @@ The sources of the reference data for the transportation network and the basemap
 **Waterbodies, Cities**</br>
 [📦](https://www.naturalearthdata.com/downloads/) Natural Earth 
 
-**Motorways data (initial reference)**</br>
-[📦](https://www.geofabrik.de/data/download.html)OpenStreetMap Contributors
+**Motorways network (initial reference)**</br>
+[📦](https://www.geofabrik.de/data/download.html) OpenStreetMap Contributors
 
 **International E-roads Network**</br>
 [📦](https://sedac.ciesin.columbia.edu/data/set/groads-global-roads-open-access-v1) Center for International Earth Science Information Network (CIESIN) / Columbia University, and Information Technology Outreach Services (ITOS) / University of Georgia. 2013. _Global Roads Open Access Data Set_, Version 1 (gROADSv1). Palisades, NY: NASA Socioeconomic Data and Applications Center (SEDAC).
@@ -66,5 +66,5 @@ The sources of the reference data for the transportation network and the basemap
 
 ***
 ### Credits
-The visualisation has been designed and developed by [Studio Folder](http://www.studiofolder.it/) (Marco Ferrari, Elisa Pasqual, Letizia Bernardelli, Simone S. Melis, Mattia Salvà) and [Angelo Semeraro](http://angelosemeraro.info/). The historical research for the chronological sequence of the motorways construction has been completed by Brendan Cormier and Esme Hawes (Victoria and Albert Museum).
+The visualisation has been designed and developed by [Studio Folder](http://www.studiofolder.it/) (Marco Ferrari, Elisa Pasqual, Letizia Bernardelli, Simone S. Melis, Mattia Salvà) and [Angelo Semeraro](http://angelosemeraro.info/). The historical research for the chronological sequence of the motorways construction has been completed by Brendan Cormier and Esme Hawes ([Victoria and Albert Museum](http://vam.ac.uk/)).
 
