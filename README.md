@@ -2,7 +2,7 @@
 
 ![The Evolution of European Motorways, 1924](https://github.com/StudioFolder/european-motorways/blob/master/VAM_European-Motorways_screen-01.png)
 
-This repository contains the datasets created for the visualisation published here: https://www.vam.ac.uk/commission/european-motorways-1920–2020.
+This repository contains the datasets created for the visualisation published here: https://www.vam.ac.uk/commissions/european-motorways-1920-2020/.
 
 "The Evolution of European Motorways 1920–2020" has been commissioned by the Victoria and Albert Museum in London, and has been developed as part of the exhibition "[Cars: Accelerating the Modern World](https://www.vam.ac.uk/exhibitions/cars)" (23 November 2019—19 April 2020), curated by Brendan Cormier. It shows the history and growth of motorways across Europe over a period of a hundred years, and it provides additional information on the political, economical and cultural context of their development. 
 
